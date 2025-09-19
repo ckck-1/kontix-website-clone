@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "pages": "Pages",
+    "blog": "Blog",
+    "shop": "Shop",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Innovative Builds",
+    "slides": {
+      "consultoria": {
+        "title": "Business Consulting",
+        "description": "Improve your company's efficiency, profitability, and competitiveness with strategic and personalized solutions.",
+        "thumb": "Consulting"
+      },
+      "gestion": {
+        "title": "Administrative and Accounting Management",
+        "description": "Delegate operational tasks to focus on your core business with efficient administrative and accounting services.",
+        "thumb": "Management"
+      },
+      "asesoria": {
+        "title": "Financial Advisory",
+        "description": "Maximize profits and ensure the financial sustainability of your company with expert advisory services.",
+        "thumb": "Advisory"
+      }
+    },
+    "startProject": "Start your project",
+    "rating": "Rated 4.9/5 from over 12,000 reviews"
+  },
+  "about": {
+    "sectionTitle": "About Us",
+    "title": "Strategic solutions for your business success",
+    "description": "At Caribbean Ventures, we specialize in providing comprehensive business consulting, administrative management, and financial advisory solutions. Our team of experts is committed to your success.",
+    "learnMore": "Learn More About Us",
+    "features": {
+      "experience": {
+        "title": "Proven Experience",
+        "description": "Over 10 years helping companies achieve their financial and operational objectives."
+      },
+      "personalized": {
+        "title": "Personalized Approach",
+        "description": "Tailored solutions designed specifically for your business's unique needs."
+      }
+    },
+    "stats": {
+      "clients": "Satisfied Clients",
+      "experience": "Years of Experience"
+    }
+  },
+  "services": {
+    "sectionTitle": "Our Services",
+    "title": "Complete services to boost your business",
+    "description": "We offer a wide range of professional services designed to optimize your operations and maximize your results.",
+    "viewAll": "View All Services"
+  },
+  "trust": {
+    "title": "Trust our expertise",
+    "subtitle": "Strategic partners for your growth"
+  },
+  "foundations": {
+    "sectionTitle": "Strong Foundations",
+    "title": "We build your company's future on solid foundations",
+    "description": "Our comprehensive approach combines strategy, technology, and experience to create lasting solutions.",
+    "learnMore": "Learn More"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To be the strategic partner that drives your company's sustainable growth",
+    "cta": "Start Now"
+  },
+  "whatWeDo": {
+    "sectionTitle": "What We Do",
+    "title": "We transform ideas into results",
+    "description": "We combine specialized knowledge with advanced technology to deliver solutions that generate real value."
+  },
+  "infrastructure": {
+    "sectionTitle": "Modern Infrastructure",
+    "title": "Cutting-edge technology at your business service",
+    "description": "We use the most advanced tools and platforms to ensure efficiency and security in all our processes."
+  },
+  "quality": {
+    "sectionTitle": "Quality Construction",
+    "title": "Excellence in every project",
+    "description": "Our commitment to quality is reflected in every aspect of our work, from planning to execution."
+  },
+  "portfolio": {
+    "sectionTitle": "Our Portfolio",
+    "title": "Success stories that back us up",
+    "description": "Discover how we have helped companies like yours achieve their objectives.",
+    "viewCase": "View Case"
+  },
+  "finalCta": {
+    "title": "Ready to transform your business?",
+    "description": "Contact us and discover how we can help you achieve your business objectives.",
+    "contact": "Contact Now",
+    "schedule": "Schedule Consultation"
+  },
+  "footer": {
+    "description": "We are your strategic partner for sustainable business growth.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "company": "Company",
+    "contact": "Contact",
+    "newsletter": "Subscribe to our newsletter",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

@@ -30,8 +30,8 @@ const Footer = () => {
               />
             </a>
             <p className="text-base leading-relaxed">
-              Building the future with integrity, innovation, and proven
-              construction expertise
+              Soluciones estratégicas para potenciar el crecimiento de su negocio
+              con integridad, innovación y experiencia comprobada
             </p>
           </div>
 
@@ -46,7 +46,7 @@ const Footer = () => {
                   href="#"
                   className="text-white hover:text-primary transition-colors duration-300"
                 >
-                  Home
+                  Inicio
                 </a>
               </li>
               <li>
@@ -54,7 +54,7 @@ const Footer = () => {
                   href="#"
                   className="text-white hover:text-primary transition-colors duration-300"
                 >
-                  About
+                  Nosotros
                 </a>
               </li>
               <li>
@@ -62,7 +62,7 @@ const Footer = () => {
                   href="#"
                   className="text-white hover:text-primary transition-colors duration-300"
                 >
-                  Service
+                  Servicios
                 </a>
               </li>
               <li>
@@ -78,7 +78,7 @@ const Footer = () => {
                   href="#"
                   className="text-white hover:text-primary transition-colors duration-300"
                 >
-                  Contacts
+                  Contacto
                 </a>
               </li>
             </ul>
@@ -87,16 +87,16 @@ const Footer = () => {
           {/* Column 3: Contact Information */}
           <div className="col-span-12 md:col-span-4 lg:col-span-4">
             <h3 className="font-semibold text-lg text-white mb-4">
-              Get a free consultation
+              Contáctenos para una consulta
             </h3>
             <div className="space-y-2">
               <p>
                 Email :{" "}
                 <a
-                  href="mailto:info@example.com"
+                  href="mailto:contact@caribbean.ventures"
                   className="text-white hover:text-primary transition-colors duration-300"
                 >
-                  info@example.com
+                  contact@caribbean.ventures
                 </a>
               </p>
               <p>
@@ -142,21 +142,20 @@ const Footer = () => {
               href="#"
               className="text-white hover:text-primary transition-colors duration-300"
             >
-              Style guide
+              Política de Privacidad
             </a>
             <a
               href="#"
               className="text-white hover:text-primary transition-colors duration-300"
             >
-              License
-            </a>
-            <a
-              href="#"
-              className="text-white hover:text-primary transition-colors duration-300"
-            >
-              Changelog
+              Términos y Condiciones
             </a>
           </div>
+        </div>
+        <div className="flex flex-wrap items-center justify-between pt-10 mt-16 border-t border-gray-800">
+          <p className="text-sm text-gray-400">
+            {new Date().getFullYear()} Caribbean Ventures. Todos los derechos reservados.
+          </p>
         </div>
       </div>
     </footer>
