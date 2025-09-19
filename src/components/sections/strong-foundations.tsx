@@ -5,25 +5,25 @@ const foundationData = [
   {
     imageSrc:
       "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/085e3073-cfac-4c74-97c3-0370505bf369-kontix-webflow-io/assets/images/68749f6c20e992e58e737946_Mask%20group%20-%202025-07-14T114015.102-13.webp?",
-    subtitle: "EXTERIOR PERFECTION",
-    title: "Exterior finishing",
+    subtitle: "ATENCIÓN INTEGRAL",
+    title: "Atención integral",
     listItems: [
-      "Material options",
-      "Insulation & efficiency",
-      "Moisture control",
-      "Color & texture variety",
+      "Servicio completo que cubre todas las áreas necesarias",
+      "Equipo legal y contable altamente capacitado",
+      "Soluciones personalizadas para cada negocio",
+      "Experiencia local e internacional",
     ],
   },
   {
     imageSrc:
       "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/085e3073-cfac-4c74-97c3-0370505bf369-kontix-webflow-io/assets/images/6874a1877186f18bd7fb9060_Mask%20group%20-%202025-07-14T114921.653-14.webp?",
-    subtitle: "PERSONALIZED SPACES",
-    title: "Custom building",
+    subtitle: "NUESTRA VENTAJA COMPETITIVA",
+    title: "¿Por qué elegirnos?",
     listItems: [
-      "Full custom homes",
-      "Eco-friendly custom homes",
-      "Modern farmhouse",
-      "Luxury custom homes",
+      "Atención integral para su negocio",
+      "Equipo profesional altamente calificado",
+      "Soluciones a medida según sus necesidades",
+      "Experiencia en diversos mercados",
     ],
   },
 ];
@@ -38,10 +38,10 @@ const StrongFoundations = () => {
       <div className="container mx-auto px-4 lg:px-8 max-w-7xl">
         <div className="text-center mb-12">
           <p className="font-semibold tracking-[0.2em] uppercase text-primary text-sm mb-4">
-            STRONG FOUNDATIONS
+            NUESTRA VENTAJA
           </p>
           <h2 className="text-4xl md:text-5xl font-bold text-foreground">
-            Innovative solutions for modern construction needs
+            Ofrecemos soluciones estratégicas y personalizadas para ayudar a su negocio a alcanzar el éxito
           </h2>
         </div>
 

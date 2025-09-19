@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "pages": "Pages",
+    "blog": "Blog",
+    "shop": "Shop",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Innovative Builds",
+    "slides": {
+      "consultoria": {
+        "title": "Consultoría Empresarial",
+        "description": "Mejore la eficiencia, rentabilidad y competitividad de su empresa con soluciones estratégicas y personalizadas.",
+        "thumb": "Consultoría"
+      },
+      "gestion": {
+        "title": "Gestión Administrativa y Contable",
+        "description": "Delegue tareas operativas para enfocarse en su negocio principal con servicios administrativos y contables eficientes.",
+        "thumb": "Gestión"
+      },
+      "asesoria": {
+        "title": "Asesoría Financiera",
+        "description": "Maximice ganancias y asegure la sostenibilidad financiera de su empresa con asesoría experta.",
+        "thumb": "Asesoría"
+      }
+    },
+    "startProject": "Start your project",
+    "rating": "Rated 4.9/5 from over 12,000 reviews"
+  },
+  "about": {
+    "sectionTitle": "Sobre Nosotros",
+    "title": "Soluciones estratégicas para el éxito de su negocio",
+    "description": "En Caribbean Ventures, nos especializamos en ofrecer soluciones integrales de consultoría empresarial, gestión administrativa y asesoría financiera. Nuestro equipo de expertos está comprometido con su éxito.",
+    "learnMore": "Conócenos Mejor",
+    "features": {
+      "experience": {
+        "title": "Experiencia Comprobada",
+        "description": "Más de 10 años ayudando a empresas a alcanzar sus objetivos financieros y operativos."
+      },
+      "personalized": {
+        "title": "Enfoque Personalizado",
+        "description": "Soluciones a medida diseñadas específicamente para las necesidades únicas de su negocio."
+      }
+    },
+    "stats": {
+      "clients": "Clientes Satisfechos",
+      "experience": "Años de Experiencia"
+    }
+  },
+  "services": {
+    "sectionTitle": "Nuestros Servicios",
+    "title": "Servicios completos para impulsar su negocio",
+    "description": "Ofrecemos una amplia gama de servicios profesionales diseñados para optimizar su operación y maximizar sus resultados.",
+    "viewAll": "Ver Todos los Servicios"
+  },
+  "trust": {
+    "title": "Confíe en nuestra experiencia",
+    "subtitle": "Socios estratégicos para su crecimiento"
+  },
+  "foundations": {
+    "sectionTitle": "Bases Sólidas",
+    "title": "Construimos el futuro de su empresa sobre bases sólidas",
+    "description": "Nuestro enfoque integral combina estrategia, tecnología y experiencia para crear soluciones duraderas.",
+    "learnMore": "Conocer Más"
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "Ser el socio estratégico que impulse el crecimiento sostenible de su empresa",
+    "cta": "Comenzar Ahora"
+  },
+  "whatWeDo": {
+    "sectionTitle": "Lo Que Hacemos",
+    "title": "Transformamos ideas en resultados",
+    "description": "Combinamos conocimiento especializado con tecnología avanzada para entregar soluciones que generan valor real."
+  },
+  "infrastructure": {
+    "sectionTitle": "Infraestructura Moderna",
+    "title": "Tecnología de punta al servicio de su negocio",
+    "description": "Utilizamos las herramientas y plataformas más avanzadas para garantizar eficiencia y seguridad en todos nuestros procesos."
+  },
+  "quality": {
+    "sectionTitle": "Construcción de Calidad",
+    "title": "Excelencia en cada proyecto",
+    "description": "Nuestro compromiso con la calidad se refleja en cada aspecto de nuestro trabajo, desde la planificación hasta la ejecución."
+  },
+  "portfolio": {
+    "sectionTitle": "Nuestro Portafolio",
+    "title": "Casos de éxito que nos respaldan",
+    "description": "Descubra cómo hemos ayudado a empresas como la suya a alcanzar sus objetivos.",
+    "viewCase": "Ver Caso"
+  },
+  "finalCta": {
+    "title": "¿Listo para transformar su negocio?",
+    "description": "Póngase en contacto con nosotros y descubra cómo podemos ayudarle a alcanzar sus objetivos empresariales.",
+    "contact": "Contactar Ahora",
+    "schedule": "Agendar Consulta"
+  },
+  "footer": {
+    "description": "Somos su socio estratégico para el crecimiento empresarial sostenible.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "company": "Empresa",
+    "contact": "Contacto",
+    "newsletter": "Suscríbase a nuestro boletín",
+    "subscribe": "Suscribirse",
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso"
+  }
+}

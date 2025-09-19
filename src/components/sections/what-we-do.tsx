@@ -3,21 +3,21 @@ import Image from "next/image";
 const services = [
   {
     iconUrl: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/085e3073-cfac-4c74-97c3-0370505bf369-kontix-webflow-io/assets/svgs/6874e8d451ee2a9d7c63b529_Vector%20(19)-21.svg?",
-    alt: "An icon representing emergency services, depicting a triangular warning sign.",
-    title: "Emergency services",
-    description: "Lorem ipsum dolor sit amet pharetra sapien lectus habitasse hendrerit nibh",
+    alt: "Icono de consultoría empresarial",
+    title: "Consultoría Empresarial",
+    description: "Soluciones estratégicas para mejorar la eficiencia y rentabilidad de su negocio",
   },
   {
     iconUrl: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/085e3073-cfac-4c74-97c3-0370505bf369-kontix-webflow-io/assets/svgs/68a6f29d06e4b0e24e9ff3b0_Vector%20(73)-22.svg?",
-    alt: "A shield icon with a lock symbol inside, representing 100% security.",
-    title: "100% secure",
-    description: "Lorem ipsum dolor sit amet pharetra sapien lectus habitasse hendrerit nibh",
+    alt: "Icono de gestión administrativa y contable",
+    title: "Gestión Administrativa y Contable",
+    description: "Servicios integrales para optimizar las operaciones de su empresa",
   },
   {
     iconUrl: "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/085e3073-cfac-4c74-97c3-0370505bf369-kontix-webflow-io/assets/svgs/68a6f29d2d11acf80787b302_Vector%20(74)-23.svg?",
-    alt: "A trophy icon with a star, representing awards won.",
-    title: "Awards won",
-    description: "Lorem ipsum dolor sit amet pharetra sapien lectus habitasse hendrerit nibh",
+    alt: "Icono de asesoría financiera",
+    title: "Asesoría Financiera",
+    description: "Maximice sus ganancias con estrategias financieras personalizadas",
   },
 ];
 
@@ -27,10 +27,10 @@ const WhatWeDoSection = () => {
       <div className="container mx-auto px-5">
         <div className="text-center">
           <p className="text-sm font-normal text-zinc-500 uppercase tracking-[0.2em] mb-4">
-            What we do
+            Nuestros Servicios
           </p>
           <h2 className="text-[36px] font-semibold leading-[1.3] text-zinc-900 max-w-2xl mx-auto">
-            Expert construction services that bring plans to life
+            Soluciones integrales para el éxito de su negocio
           </h2>
         </div>
 

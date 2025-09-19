@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "../styles/animations.css";
 import VisualEditsMessenger from "../visual-edits/VisualEditsMessenger";
 import ErrorReporter from "@/components/ErrorReporter";
+import { LanguageProvider } from "@/contexts/LanguageContext";
+import { ScrollProgress } from "@/components/animations/ScrollProgress";
+import { SimpleCursor } from "@/components/animations/SimpleCursor";
 import Script from "next/script";
 
 export const metadata: Metadata = {
@@ -17,6 +21,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased">
+        <SimpleCursor />
+        <ScrollProgress />
         <ErrorReporter />
         <Script
           src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/scripts//route-messenger.js"
@@ -28,7 +34,9 @@ export default function RootLayout({
           data-debug="true"
           data-custom-data='{"appName": "YourApp", "version": "1.0.0", "greeting": "hi"}'
         />
-        {children}
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
         <VisualEditsMessenger />
       </body>
     </html>
